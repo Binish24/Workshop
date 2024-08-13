@@ -7,7 +7,7 @@ public class FirstDay {
 
         System.out.println("Welcome to 'JAVA Program' workshop");
 
-
+// congrats new project!
 
 
     }
